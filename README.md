@@ -18,7 +18,7 @@ Currently, I Am Occupied With Perfecting My Design Skills, Styling, And Building
 - ⭐  SASS & BOOTSTRAP
 - ⭐  JavaScript       
 
-Planing to learn React, PHP and WORDPRESS  
+Curently learning react
     
 ### My Recent Projects :
 
