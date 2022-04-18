@@ -1,22 +1,8 @@
 ### Hello Visitor !!!
 
-My name is Antonio.
-
-Born And Raised In Croatia.
-
-Living In Prague For Last 10 Years.
-
-U can meet me at [Kobe Restaurant](https://www.koberestaurant.cz/)
-
-I'm A Goal Striving Person, Love Challanges And Always Pushing Myself To Be Better.
-
-Currently, I Am Occupied With Perfecting My Design Skills, Styling, And Building Small Projects In My Free Time.
-
-### I got grip on :
-
-- ⭐ HTML & CSS        
-- ⭐  SASS & BOOTSTRAP
-- ⭐  JavaScript       
+-  HTML    
+-  SASS & BOOTSTRAP
+-  JavaScript       
 
 Curently learning react
     
